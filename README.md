@@ -1,2 +1,1 @@
-# DS
-DS project Jupyter
+Project done with assistance from dataquest.io
