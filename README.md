@@ -1,1 +1,1 @@
-Project done with assistance from dataquest.io
+App Store Analysis project done with assistance from dataquest.io
